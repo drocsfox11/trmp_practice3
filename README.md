@@ -15,24 +15,24 @@
 
 # 📂 Структура документации
 
-docs/
-track/
-core/
-RaceTrack.md
-TrackPath.md
-TrackRibbon.md
-Checkpoint.md
-logic/
-LapTracker.md
-gameplay/
-systems/
-WrongWayEnforcer.md
-AIDriver.md
-KillPlane.md
-session/
-flow/
-RaceManager.md
-GameSession.md
+- **docs/**
+  - **track/**
+    - **core/**
+      - [RaceTrack.md](docs/track/core/RaceTrack.md)
+      - [TrackPath.md](docs/track/core/TrackPath.md)
+      - [TrackRibbon.md](docs/track/core/TrackRibbon.md)
+      - [Checkpoint.md](docs/track/core/Checkpoint.md)
+    - **logic/**
+      - [LapTracker.md](docs/track/logic/LapTracker.md)
+  - **gameplay/**
+    - **systems/**
+      - [WrongWayEnforcer.md](docs/gameplay/systems/WrongWayEnforcer.md)
+      - [AIDriver.md](docs/gameplay/systems/AIDriver.md)
+      - [KillPlane.md](docs/gameplay/systems/KillPlane.md)
+  - **session/**
+    - **flow/**
+      - [RaceManager.md](docs/session/flow/RaceManager.md)
+      - [GameSession.md](docs/session/flow/GameSession.md)
 
 # 🏁 Раздел TRACK — логика трассы
 
