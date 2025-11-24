@@ -22,7 +22,7 @@ Evaluate(float s, float lateral) интерполирует вдоль масс�
 
 ## Визуализация
 
-![Gizmos ленты трассы](../images/track_ribbon_gizmos.png)
+![Gizmos ленты трассы](../../images/track_ribbon_gizmos.png)
 
 OnDrawGizmos рисует:
 
